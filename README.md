@@ -11,6 +11,7 @@
 | Chinese (Simplified) Language Pack | Language pack extension for Chinese (Simplified) |
 | ESLint | Integrates ESLint JavaScript into VS Code. |
 | Git History | View git log, file history, compare branches or commits. |
+| GitHub Theme | GitHub theme for VS Code. |
 | GitLens | GitLens supercharges the Git capabilities built into Visual Studio Code. |
 | IntelliJ IDEA Keybindings | IntelliJ IDEA Key Bindings for Visual Studio Code. |
 | Live Server | Launch a local development server with live reload feature for static & dynamic pages. |
